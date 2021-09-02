@@ -1,0 +1,118 @@
+.navbar img{
+    width: 40px;
+}
+body{
+    background:#F3F1FF;
+}
+.container-fluid{
+    margin:0px 210px
+}
+.logo-text{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+margin-left: 10px;
+}
+.logo-text1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+margin-top: 10px;
+margin-left: 10px;
+color:#FFFFFF !important;
+}
+.man img{
+    width: 56px;
+}
+main{
+    background: #FFFFFF;
+border-radius: 5px;
+width: 855px;
+margin-top: 50px;
+}
+.main-text{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #562EFF;
+margin-bottom: 30px;
+}
+.top-blog{
+    width:855px;
+}
+.top-blog img{
+    width: 177px;
+}
+.blog-text{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color:  #562EFF;;
+
+margin-top: 25px;
+}
+.blog-text1{
+    margin-left: 20px;
+}
+.blog-h3{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+color: #000000;;
+}
+.p-text{
+    color: #562EFF;
+    font-family: Poppins;
+}
+.second-blog{
+    width: 870px;
+    background: #FFFFFF;
+    
+  
+}
+.course{
+    border: none;
+   margin: 10px 20px;
+   filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+}
+.card-text{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14.6913px;
+line-height: 17px;
+color:  #ED6B4F;;
+}
+.card-title{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20.0336px;
+line-height: 23px;
+color: #1E1E1E;
+}
+.footer img{
+    width: 12.25px;
+}
+.second-blog img{
+    width: 224.38px;
+}
+.badge{
+    margin-top: -25px;
+}
+.star img{
+    width: 12.25px;
+}
+.clock img{
+    width: 20px;
+}
